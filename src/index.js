@@ -15,7 +15,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <ThemeProvider theme={theme}>
       <Provider store={store}>
         <PersistGate loading="" persistor={persistor}>
-          <BrowserRouter basename="/githack-GooseTrack-app">
+          <BrowserRouter basename="/react_node_fs_63_a-pinchuk">
             <App />
           </BrowserRouter>
         </PersistGate>
