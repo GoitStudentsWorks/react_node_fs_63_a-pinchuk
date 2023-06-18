@@ -2,7 +2,7 @@
   "name": "githack",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://a-pinchuk.github.io/githack-GooseTrack-app/",
+  "homepage": "https://goitstudentsworks.github.io/react_node_fs_63_a-pinchuk/",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.10",
     "@emotion/react": "^11.11.1",
